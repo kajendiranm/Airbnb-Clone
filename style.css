@@ -689,3 +689,25 @@ span{
         width: 20px;
     }
 }
+@media (max-width: 449px) {
+    .dot{
+        display: none;
+    }
+    .footer{
+        display: block;
+        position: static;
+    }
+    .left-side{
+        justify-content: start;
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+    }
+    .right-side-foot{
+        display: block;
+    }
+    .bi-chevron-up{
+        display: none;
+    }
+    
+}
