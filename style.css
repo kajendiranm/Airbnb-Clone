@@ -426,12 +426,12 @@ span{
     .head-container{
         display: none;
     }
+    
     .hide-logo{
         height: 33px;
         margin-right: 8px;
     }
     .hidden-head{
-        padding: 0 10px;
         height: 80px;
         border-bottom: 1px solid #EBEBEB;
         display: flex;
