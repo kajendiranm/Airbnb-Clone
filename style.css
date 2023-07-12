@@ -603,23 +603,19 @@ span{
         display: none;
     }
     .footer{
-        display: flex;
-        flex-direction: column;
-        justify-content: start;
+        padding-top: 10px;
+        min-height: 10px;
+        display: block;
         position: static;
     }
     .left-side{
-        min-height: 30px;
-        display: flex;
         flex-wrap: wrap;
         justify-content: start;
         margin-top: -10px;
     }
     .right-side-foot{
-        display: flex;
         flex-wrap: wrap;
         justify-content: start;
-        min-height: 50px;
     }
 }
 @media (max-width : 699px) {
