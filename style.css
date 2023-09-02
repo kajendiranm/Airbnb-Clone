@@ -711,3 +711,11 @@ span{
     }
     
 }
+.owner{
+    display: flex;
+    align-items: center;
+}
+.owner p a{
+    color: #F53054;
+    text-decoration: none;
+}
