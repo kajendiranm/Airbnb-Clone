@@ -301,6 +301,16 @@ span{
     transform: scale(1.04);
     transition-duration: .3s;
 }
+
+.bi-linkedin {
+    margin-left: 3px;
+    font-size: 22px;
+}
+
+.footer .owner p a{
+    text-decoration: none;
+}
+
 @media(max-width: 1051px){
     .left-side{
         padding-top: 10px;
